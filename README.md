@@ -1,2 +1,2 @@
 # KMeans_SK
-Custom implementation of KMeans
+Custom implementation of KMeans from scratch.
